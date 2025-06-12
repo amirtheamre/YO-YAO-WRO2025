@@ -1,10 +1,10 @@
-# My Project Title
 
-This is a short description of my project.
+Electrodynamic circuits
+====
 
-## Features
-- Feature 1
-- Feature 2
+This folder contains an electrodynamic diagram of the robot components, the connection of sensors to the ????? is described in detail.
 
-## How to Use
-Instructions here...
+Электродинамические схемы
+====
+
+Данная папка содержит электродинамическую схему компонентов робота, детально описано соединение датчиков ????.
