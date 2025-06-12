@@ -1,10 +1,10 @@
-# My Project Title
 
-This is a short description of my project.
+Robot movement program
+====
 
-## Features
-- Feature 1
-- Feature 2
+This folder contains a photo of the code designed to move the new robot with comments for each part of the program.
 
-## How to Use
-Instructions here...
+Программа движения робота
+====
+
+Данная папка содержит фото кода, предначенного для движения нового робота с комментариями для каждой части программы.
