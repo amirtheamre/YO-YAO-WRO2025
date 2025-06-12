@@ -1,10 +1,9 @@
-# My Project Title
+Team Photos
+====
 
-This is a short description of my project.
+This folder contains 2 team photos: 1 unofficial and 1 official.
 
-## Features
-- Feature 1
-- Feature 2
+Командные Фото
+====
 
-## How to Use
-Instructions here...
+Данная папка содержит 2 командных фото: 1  в неофициальном формате  и  1 официальной форме.
