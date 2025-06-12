@@ -1,10 +1,10 @@
-# My Project Title
 
-This is a short description of my project.
+Video of robot movement
+====
 
-## Features
-- Feature 1
-- Feature 2
+ The video.md file contains a link to a video on YouTube, with the movement of the robot, and the videos themselves are also attached in .mp4 format.
 
-## How to Use
-Instructions here...
+Видео движения робота
+====
+
+ Файл video.md содержит ссылку на видео на YouTube, с движением робота, а также прикреплены сами видео в формате .mp4.
