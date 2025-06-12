@@ -1,10 +1,9 @@
-# My Project Title
+Robot Photos
+====
 
-This is a short description of my project.
+ This folder contains 6 photos of the modern version of the robot from all sides (top, bottom, right, left, front and back).
 
-## Features
-- Feature 1
-- Feature 2
+Фотографии Робота
+====
 
-## How to Use
-Instructions here...
+ В данной папке содержатся 6 фото современной версии робота со всех сторон (сверху, снизу, справа, слева, спереди и сзади).
