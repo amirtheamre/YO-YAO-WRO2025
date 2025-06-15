@@ -1,10 +1,8 @@
-# My Project Title
 
-This is a short description of my project.
+# Models
 
-## Features
-- Feature 1
-- Feature 2
+Our solution does not include 3D-models or another types of models.
 
-## How to Use
-Instructions here...
+# Модели
+
+Наше решение не включает в себя использование 3D-моделей или других типов моделей.
