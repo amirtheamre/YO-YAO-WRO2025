@@ -25,6 +25,8 @@ Engineer's Documentation
  
  To identify special signals of various colors (red and green), distance and color sensors are located on the front of our robot. When approaching the signs, the color sensor works optimally, and by determining the color of the sign through a conditional operator, it gives a signal to turn and drive the robot.
 
+ The rotary system was implemented using a large motor from the LEGO Spike set, our robot is rear-wheel drive, the rear-mounted middle motor starts the movement of the robot's rear wheels, we decided that this type of robot drive would be the most optimal.
+
 
  Документация Инженера
 ====
@@ -51,5 +53,7 @@ Engineer's Documentation
  Робот был собран из деталей комплекта LEGO Spke, на одном блоке, хабе из данного издания. Были использованы следующие моторы и датчики: большой мотор, средний мотор, ультразвуковой датчик света, датчик расстояния в количестве 3 штук. Провода были подключены последовательно, отдавая приоритет каждой детали соответственно. Программа для робота была написана используя блок-код, программы SPIKE App. Поворотная система была реализована при помощи датчиков, которые измеряли расстояние до внутренних и внешних стен, при достаточном приближении к внешней стене и отсутствия внутренней стены в поле видимости датчика совершается поворот.
  
  Для опознования специальных сигналов различных цветов (красного и зеленого) на передней части нашего робота расположены датчики расстояния и цвета, при необходимом приближении к знакам датчик цвета работает оптимально, а также определяя цвет знака через условный оператор подает сигнал к повороту и езде робота.  
+ 
+ Поворотная система была реализована при помощи использования большого мотора из набора LEGO Spike, наш робот заднеприводный, расположенный сзади средний мотор начинает движение задних колес робота, мы решили что данный тип привода робота будет наиболее оптимальным.
 
  
