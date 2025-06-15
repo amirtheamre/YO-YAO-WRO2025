@@ -1,10 +1,8 @@
-# My Project Title
 
-This is a short description of my project.
+# Other
 
-## Features
-- Feature 1
-- Feature 2
+All of features are described in folders (schemes, src, t-photos, v-photos, video), so there is no need in additional information in this folder.
 
-## How to Use
-Instructions here...
+# Другое
+
+Все детали нашего решения были описаны в папках (schemes, src, t-photos, v-photos, video), так что нет необходимости включать дополнительную информацию в этой папке.
